@@ -1,4 +1,2 @@
-"Hello Odine"
-"Hello Odin Project" 
-"Life is great"
+Hello. my name is Brandon Bowman and I am in pursuit of a better life.
 
